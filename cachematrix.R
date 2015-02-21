@@ -1,7 +1,7 @@
 ## Cache the inverse of a matrix and returns the cache if matrix has not been
 ## changed
 
-## Creates an 'matrix' object that can cache it's inverse
+## Creates an 'matrix' object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
